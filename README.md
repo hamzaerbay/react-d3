@@ -1,14 +1,14 @@
 # react-starter-kit
-ReactJS exercises
+D3 ReactJS exercises
 
 ## Getting started
 
 This project is using webpack and sass css pre-processor.
 
-Before started 
+Before started
 
-Run `npm install` for getting dependencies and run
+Run `yarn install` for getting dependencies and run
 
-`npm run dev-server` for using webpack dev server.
+`yarn run dev-server` for using webpack dev server.
 
-`npm run prod` for deploying everyting for production.
+`yarn run prod` for deploying everyting for production.
